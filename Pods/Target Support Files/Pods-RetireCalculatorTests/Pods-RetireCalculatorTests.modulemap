@@ -1,0 +1,6 @@
+framework module Pods_RetireCalculatorTests {
+  umbrella header "Pods-RetireCalculatorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
