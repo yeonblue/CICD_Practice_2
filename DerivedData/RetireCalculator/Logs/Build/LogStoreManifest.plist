@@ -74,6 +74,40 @@
 			<key>uniqueIdentifier</key>
 			<string>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1</string>
 		</dict>
+		<key>B0990A3B-0217-451C-AF79-E5C1EBCE4DF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B0990A3B-0217-451C-AF79-E5C1EBCE4DF0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698660585.66777098</real>
+			<key>timeStoppedRecording</key>
+			<real>698660587.23958397</real>
+			<key>title</key>
+			<string>Build RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>B0990A3B-0217-451C-AF79-E5C1EBCE4DF0</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
