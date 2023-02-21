@@ -38,13 +38,18 @@ class ViewController: UIViewController {
     }
     
     @IBAction func calculateButton_TouchUpInside(_ sender: Any) {
-        // Crashes.generateTestCrash() // Firebase에서는 Crashlytics.crash()
+        // MSCrashes.generateTestCrash()
         let current_age : Int? = Int(ageTextField.text!)
         let planned_retirement_age : Int? = Int(retirementAgeTextField.text!)
+        let monthly_investment : Float? = Float(monthlyInvestmentsTextField.text!)
+        let current_savings : Float? = Float(savingsTextField.text!)
+        let interest_rate : Float? = Float(interestRateTextField.text!)
 
+        resultLabel.text = "If you save $\(monthly_investment!) every month for \(planned_retirement_age! - current_age!) years, and invest that money plus your current investment of $\(current_savings!) at a \(interest_rate!)% anual interest rate by the time you are \(planned_retirement_age!) years old."
+        
         let properties = ["current_age": String(current_age!),
                           "planned_retirement_age": String(planned_retirement_age!)]
-        
+
         Analytics.trackEvent("calculate_retirement_amount", withProperties: properties)
     }
 }
@@ -77,4 +82,13 @@ Firebase에도 Analytics에서 logEvent가 존재, appcenter의 trackEvent에 �
          print("앱이 마지막 세션에서 충돌하지 않았습니다.")
      }
  }
+ */
+
+/*
+ CI/CD 준비
+ 1. Master Branchsms 안전하게 protect 필요
+ 2. dev - feature branchs 구현 예정
+ 3. Feedback loop가 빨라짐
+ 4. Pull Request를 이용 (central, collaborate)
+ 5. test를 포함
  */
