@@ -16,6 +16,7 @@
 			dependencies = (
 			);
 			name = AppCenter;
+			productName = AppCenter;
 		};
 /* End PBXAggregateTarget section */
 
@@ -23,6 +24,7 @@
 		2160BF2D33D915AAA9D46912C67B2810 /* Pods-RetireCalculator-RetireCalculatorUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C39A5BA6D9C2EEDD2A95CBAB509CC3 /* Pods-RetireCalculator-RetireCalculatorUITests-dummy.m */; };
 		29725C01FB71DF726F7307B53DBCCE68 /* Pods-RetireCalculatorTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E76DAD3F6E2E5F4609997E385154863 /* Pods-RetireCalculatorTests-dummy.m */; };
 		399DEDA5715447D32BC94FAFD22935DA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		45937FBD299B682D002F54DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45937FBC299B682D002F54DD /* Main.storyboard */; };
 		608A7E8F104D9E70337FC5ED5C65AC4F /* Pods-RetireCalculator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 70C62F28BED6E9CAFA1D6EBAD5D26B23 /* Pods-RetireCalculator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		91C4A94D7FE75C2C4529261F9EA397A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		B2A440AD123D93300AC41855C7F56211 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -61,6 +63,7 @@
 		3D0CF4C8772C0B488AAD50FC8C8B195A /* AppCenter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AppCenter.debug.xcconfig; sourceTree = "<group>"; };
 		41D696860CF819FF9DC6CAE3498AAC51 /* Pods-RetireCalculator-RetireCalculatorUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RetireCalculator-RetireCalculatorUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		44D0564379E78EE2B4E92BCD68BF5448 /* Pods-RetireCalculator-RetireCalculatorUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetireCalculator-RetireCalculatorUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		45937FBC299B682D002F54DD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../RetireCalculator/Main.storyboard; sourceTree = "<group>"; };
 		462F33E8B40E6729331866C70FFD910B /* Pods-RetireCalculator-RetireCalculatorUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RetireCalculator-RetireCalculatorUITests.modulemap"; sourceTree = "<group>"; };
 		4CF029B2B2FCB6CC1A86801C8A4C8B7B /* Pods-RetireCalculator-RetireCalculatorUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RetireCalculator-RetireCalculatorUITests-umbrella.h"; sourceTree = "<group>"; };
 		4E32027E53AD4A7A8B095842521173AD /* Pods-RetireCalculator */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-RetireCalculator"; path = Pods_RetireCalculator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,7 +76,7 @@
 		70C62F28BED6E9CAFA1D6EBAD5D26B23 /* Pods-RetireCalculator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RetireCalculator-umbrella.h"; sourceTree = "<group>"; };
 		7220795A58434AE965F1441DB37A728B /* Pods-RetireCalculatorTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-RetireCalculatorTests"; path = Pods_RetireCalculatorTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7255831CBD2A89DA80167661B7809498 /* Pods-RetireCalculator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RetireCalculator.modulemap"; sourceTree = "<group>"; };
-		72F1C87A91DD130F3F8462BC71DEC0D9 /* AppCenter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AppCenter.xcframework; path = "AppCenter-SDK-Apple/AppCenter.xcframework"; sourceTree = "<group>"; };
+		72F1C87A91DD130F3F8462BC71DEC0D9 /* AppCenter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppCenter.xcframework; path = "AppCenter-SDK-Apple/AppCenter.xcframework"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		76C39A5BA6D9C2EEDD2A95CBAB509CC3 /* Pods-RetireCalculator-RetireCalculatorUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RetireCalculator-RetireCalculatorUITests-dummy.m"; sourceTree = "<group>"; };
 		7C8B6F113A8FD382D45D111B501762C3 /* Pods-RetireCalculator-RetireCalculatorUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetireCalculator-RetireCalculatorUITests-Info.plist"; sourceTree = "<group>"; };
@@ -81,13 +84,13 @@
 		8A836FC43795C8EA9DDD4CF19A2A5130 /* Pods-RetireCalculatorTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RetireCalculatorTests.modulemap"; sourceTree = "<group>"; };
 		8E3E0039862A572ECC950E96380082C0 /* Pods-RetireCalculatorTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetireCalculatorTests-Info.plist"; sourceTree = "<group>"; };
 		933EB7048FBED835F8D34CFF1C53D8FF /* Pods-RetireCalculatorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RetireCalculatorTests.debug.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E3194FA93FA24583D8C8DB557E6BC7A /* Pods-RetireCalculator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RetireCalculator-dummy.m"; sourceTree = "<group>"; };
 		9EE12DC0428C3572859F7D3297F1AA75 /* Pods-RetireCalculator-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RetireCalculator-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A4CEB9EE7886E49AA8695382D6BA4D75 /* Pods-RetireCalculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RetireCalculator.release.xcconfig"; sourceTree = "<group>"; };
-		B69D7A7B4C1622AD650EA2E030736707 /* AppCenterAnalytics.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AppCenterAnalytics.xcframework; path = "AppCenter-SDK-Apple/AppCenterAnalytics.xcframework"; sourceTree = "<group>"; };
+		B69D7A7B4C1622AD650EA2E030736707 /* AppCenterAnalytics.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppCenterAnalytics.xcframework; path = "AppCenter-SDK-Apple/AppCenterAnalytics.xcframework"; sourceTree = "<group>"; };
 		C39874D5A2964042B413F857C0520145 /* AppCenter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AppCenter.release.xcconfig; sourceTree = "<group>"; };
-		D024FDD6D97527CD1036848CD81D190B /* AppCenterCrashes.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AppCenterCrashes.xcframework; path = "AppCenter-SDK-Apple/AppCenterCrashes.xcframework"; sourceTree = "<group>"; };
+		D024FDD6D97527CD1036848CD81D190B /* AppCenterCrashes.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppCenterCrashes.xcframework; path = "AppCenter-SDK-Apple/AppCenterCrashes.xcframework"; sourceTree = "<group>"; };
 		D228C7FB1C1B0687E03862F750775A81 /* Pods-RetireCalculatorTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RetireCalculatorTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E039AAFC7E20C4A1758D09A8960AA7D9 /* AppCenter-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "AppCenter-xcframeworks.sh"; sourceTree = "<group>"; };
 		E0F1C9A78B65884C64DA4BEEAA34965F /* Pods-RetireCalculator-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetireCalculator-Info.plist"; sourceTree = "<group>"; };
@@ -124,6 +127,7 @@
 		000C208070BC19B345D791CD339AA587 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
+				45937FBC299B682D002F54DD /* Main.storyboard */,
 				E1B6E1E7256A85CA0CCBE42C3109BEF4 /* Pods-RetireCalculator */,
 				FDE09C0E7D1B7E35FD0BDACC00DF6E47 /* Pods-RetireCalculator-RetireCalculatorUITests */,
 				5F2ACD2C244E4EE5C18238211027E95C /* Pods-RetireCalculatorTests */,
@@ -232,7 +236,6 @@
 				ED5E0372385F80256AD185B82982C57C /* Crashes */,
 				B429B4E34BC53C308CEE01E3AB1A4C15 /* Support Files */,
 			);
-			name = AppCenter;
 			path = AppCenter;
 			sourceTree = "<group>";
 		};
@@ -389,7 +392,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastUpgradeCheck = 1420;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 14.0";
@@ -424,6 +427,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45937FBD299B682D002F54DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -625,7 +629,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -744,6 +748,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -810,6 +815,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -882,7 +888,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

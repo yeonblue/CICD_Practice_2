@@ -12,12 +12,14 @@
 		45937F66299A5A20002F54DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45937F65299A5A20002F54DD /* AppDelegate.swift */; };
 		45937F68299A5A20002F54DD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45937F67299A5A20002F54DD /* SceneDelegate.swift */; };
 		45937F6A299A5A20002F54DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45937F69299A5A20002F54DD /* ViewController.swift */; };
-		45937F6D299A5A20002F54DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45937F6B299A5A20002F54DD /* Main.storyboard */; };
 		45937F6F299A5A21002F54DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45937F6E299A5A21002F54DD /* Assets.xcassets */; };
 		45937F72299A5A21002F54DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45937F70299A5A21002F54DD /* LaunchScreen.storyboard */; };
 		45937F7D299A5A22002F54DD /* RetireCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45937F7C299A5A22002F54DD /* RetireCalculatorTests.swift */; };
 		45937F87299A5A22002F54DD /* RetireCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45937F86299A5A22002F54DD /* RetireCalculatorUITests.swift */; };
 		45937F89299A5A22002F54DD /* RetireCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45937F88299A5A22002F54DD /* RetireCalculatorUITestsLaunchTests.swift */; };
+		45937FC1299B83E9002F54DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45937FBE299B6847002F54DD /* Main.storyboard */; };
+		45937FC2299B83EA002F54DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45937FBE299B6847002F54DD /* Main.storyboard */; };
+		45937FC3299B83EA002F54DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45937FBE299B6847002F54DD /* Main.storyboard */; };
 		FF850D194AF118FA06E5B142 /* Pods_RetireCalculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DB9E993556CC573A8161EEB /* Pods_RetireCalculator.framework */; };
 /* End PBXBuildFile section */
 
@@ -46,7 +48,6 @@
 		45937F65299A5A20002F54DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45937F67299A5A20002F54DD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		45937F69299A5A20002F54DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		45937F6C299A5A20002F54DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		45937F6E299A5A21002F54DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45937F71299A5A21002F54DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45937F73299A5A21002F54DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 		45937F82299A5A22002F54DD /* RetireCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RetireCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		45937F86299A5A22002F54DD /* RetireCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetireCalculatorUITests.swift; sourceTree = "<group>"; };
 		45937F88299A5A22002F54DD /* RetireCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetireCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		45937FBE299B6847002F54DD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		56C33A7F9E015D457CEAABE4 /* Pods-RetireCalculator-RetireCalculatorUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RetireCalculator-RetireCalculatorUITests.release.xcconfig"; path = "Target Support Files/Pods-RetireCalculator-RetireCalculatorUITests/Pods-RetireCalculator-RetireCalculatorUITests.release.xcconfig"; sourceTree = "<group>"; };
 		7DB9E993556CC573A8161EEB /* Pods_RetireCalculator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RetireCalculator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A14860B3B36683E1072B77FC /* Pods-RetireCalculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RetireCalculator.release.xcconfig"; path = "Target Support Files/Pods-RetireCalculator/Pods-RetireCalculator.release.xcconfig"; sourceTree = "<group>"; };
@@ -119,9 +121,9 @@
 				45937F65299A5A20002F54DD /* AppDelegate.swift */,
 				45937F67299A5A20002F54DD /* SceneDelegate.swift */,
 				45937F69299A5A20002F54DD /* ViewController.swift */,
-				45937F6B299A5A20002F54DD /* Main.storyboard */,
 				45937F6E299A5A21002F54DD /* Assets.xcassets */,
 				45937F70299A5A21002F54DD /* LaunchScreen.storyboard */,
+				45937FBE299B6847002F54DD /* Main.storyboard */,
 				45937F73299A5A21002F54DD /* Info.plist */,
 			);
 			path = RetireCalculator;
@@ -164,7 +166,6 @@
 				EE3721487465E4CA911E979C /* Pods-RetireCalculatorTests.debug.xcconfig */,
 				1B26B5ED71216BE91D554218 /* Pods-RetireCalculatorTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -275,9 +276,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45937FC1299B83E9002F54DD /* Main.storyboard in Resources */,
 				45937F72299A5A21002F54DD /* LaunchScreen.storyboard in Resources */,
 				45937F6F299A5A21002F54DD /* Assets.xcassets in Resources */,
-				45937F6D299A5A20002F54DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +286,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45937FC2299B83EA002F54DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +294,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45937FC3299B83EA002F54DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -410,14 +413,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		45937F6B299A5A20002F54DD /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				45937F6C299A5A20002F54DD /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		45937F70299A5A21002F54DD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

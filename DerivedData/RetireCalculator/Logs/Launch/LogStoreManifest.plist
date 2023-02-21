@@ -5,6 +5,97 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1829B443-9579-4FEE-A295-144940F14606</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>34345F78-C650-417B-9EA9-6FA17171C7C6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-RetireCalculator-2023.02.21_15-57-28-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698655448.01765704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>1829B443-9579-4FEE-A295-144940F14606</string>
+		</dict>
+		<key>995F184B-E8A8-42E0-B7D8-FFFB0120B924</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-RetireCalculator-2023.02.14_20-32-29-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698067149.36494899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>995F184B-E8A8-42E0-B7D8-FFFB0120B924</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

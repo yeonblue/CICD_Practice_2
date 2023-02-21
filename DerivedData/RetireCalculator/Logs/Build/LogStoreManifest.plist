@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>34345F78-C650-417B-9EA9-6FA17171C7C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34345F78-C650-417B-9EA9-6FA17171C7C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698655448.01858103</real>
+			<key>timeStoppedRecording</key>
+			<real>698655449.505265</real>
+			<key>title</key>
+			<string>Build RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>34345F78-C650-417B-9EA9-6FA17171C7C6</string>
+		</dict>
+		<key>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698067149.365201</real>
+			<key>timeStoppedRecording</key>
+			<real>698067149.58501399</real>
+			<key>title</key>
+			<string>Build RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
