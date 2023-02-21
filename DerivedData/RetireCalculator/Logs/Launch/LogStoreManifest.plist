@@ -51,6 +51,51 @@
 			<key>uniqueIdentifier</key>
 			<string>1829B443-9579-4FEE-A295-144940F14606</string>
 		</dict>
+		<key>25C7846A-B026-4799-A495-266BAE15AEFA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B0990A3B-0217-451C-AF79-E5C1EBCE4DF0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-RetireCalculator-2023.02.21_17-23-05-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698660585.66657901</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>25C7846A-B026-4799-A495-266BAE15AEFA</string>
+		</dict>
 		<key>995F184B-E8A8-42E0-B7D8-FFFB0120B924</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
