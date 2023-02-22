@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>34345F78-C650-417B-9EA9-6FA17171C7C6</key>
+		<key>A546AABC-5AD1-457D-84CF-DA696760075D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>34345F78-C650-417B-9EA9-6FA17171C7C6.xcactivitylog</string>
+			<string>A546AABC-5AD1-457D-84CF-DA696760075D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -24,7 +24,7 @@
 				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
-			<string>RetireCalculator project</string>
+			<string>RetireCalculator Workspace</string>
 			<key>schemeIdentifier-schemeName</key>
 			<string>RetireCalculator</string>
 			<key>schemeIdentifier-sharedScheme</key>
@@ -32,47 +32,13 @@
 			<key>signature</key>
 			<string>Build RetireCalculator</string>
 			<key>timeStartedRecording</key>
-			<real>698655448.01858103</real>
+			<real>698744647.84477198</real>
 			<key>timeStoppedRecording</key>
-			<real>698655449.505265</real>
+			<real>698744648.11619699</real>
 			<key>title</key>
 			<string>Build RetireCalculator</string>
 			<key>uniqueIdentifier</key>
-			<string>34345F78-C650-417B-9EA9-6FA17171C7C6</string>
-		</dict>
-		<key>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>RetireCalculator project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>RetireCalculator</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build RetireCalculator</string>
-			<key>timeStartedRecording</key>
-			<real>698067149.365201</real>
-			<key>timeStoppedRecording</key>
-			<real>698067149.58501399</real>
-			<key>title</key>
-			<string>Build RetireCalculator</string>
-			<key>uniqueIdentifier</key>
-			<string>86C61F4E-8FD9-47A0-B2A0-AE90FE5E50F1</string>
+			<string>A546AABC-5AD1-457D-84CF-DA696760075D</string>
 		</dict>
 		<key>B0990A3B-0217-451C-AF79-E5C1EBCE4DF0</key>
 		<dict>
@@ -107,6 +73,40 @@
 			<string>Build RetireCalculator</string>
 			<key>uniqueIdentifier</key>
 			<string>B0990A3B-0217-451C-AF79-E5C1EBCE4DF0</string>
+		</dict>
+		<key>F337E9A1-EA04-46EF-96BC-5CC010FA6E0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F337E9A1-EA04-46EF-96BC-5CC010FA6E0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetireCalculator Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetireCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RetireCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>698744628.96290505</real>
+			<key>timeStoppedRecording</key>
+			<real>698744631.644642</real>
+			<key>title</key>
+			<string>Build RetireCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F337E9A1-EA04-46EF-96BC-5CC010FA6E0B</string>
 		</dict>
 	</dict>
 </dict>
